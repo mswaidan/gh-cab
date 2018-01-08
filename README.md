@@ -1,2 +1,2 @@
 # gh-cab
-Python GH script for generating cabinet parts
+GH definition for generating cabinet parts
